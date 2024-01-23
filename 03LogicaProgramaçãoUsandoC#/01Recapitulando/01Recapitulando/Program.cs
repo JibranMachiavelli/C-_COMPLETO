@@ -9,6 +9,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
             string nome = "Maria";
             double saldo = 120.22;
 
+            Console.WriteLine( nome );
             Console.WriteLine(nome  + " tem, " + idade + " anos  e tem saldo igual a " + saldo + " reais.");
         }
     }
