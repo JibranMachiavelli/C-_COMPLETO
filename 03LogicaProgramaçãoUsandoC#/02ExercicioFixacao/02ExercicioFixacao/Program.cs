@@ -18,8 +18,8 @@ namespace _01Exercicio // Note: actual namespace depends on the project name.
             double medida = 53.234567;
 
             Console.WriteLine("Produto:");
-            Console.WriteLine(produto1 + " cujo preco e " + preco1);
-            Console.WriteLine(produto2 + " cujo preco e " + preco2);
+            Console.WriteLine(produto1 + " cujo preco e $" + preco1);
+            Console.WriteLine(produto2 + " cujo preco e $" + preco2);
             Console.WriteLine("");
             Console.WriteLine("Regiostro: " + idade + " anos de idade, código " + codigo + " e genero: " + genero);
             Console.WriteLine("");
